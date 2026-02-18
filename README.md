@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="./master_yoda.webp" width="600" alt="Yoda">
+  <img src="./gandalf.png" width="600" alt="Gandalf">
   <p>
-    <em>"Do or do not. There is no try." - Master Yoda</em>
+    <em>"All we have to decide is what to do with the time that is given us." - Gandalf</em>
   </p>
 </div>
