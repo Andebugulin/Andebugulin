@@ -25,7 +25,7 @@ Block distracting apps with physical NFC tags.\
 
 **[Awareen](https://andebugulin.github.io/Awareen/)** · [source](https://github.com/Andebugulin/awareen)\
 Persistent overlay showing your daily screen time.\
-[![Google Play](https://img.shields.io/badge/Google_Play-000?style=flat-square&logo=google-play&logoColor=fff)](https://play.google.com/store/apps/details?id=com.andebugulin.awareen)
+[![Google Play](https://img.shields.io/badge/Google_Play-000?style=flat-square&logo=google-play&logoColor=fff)](https://play.google.com/store/apps/details?id=com.andebugulin.awareen2)
 
 </td></tr>
 <tr><td>
