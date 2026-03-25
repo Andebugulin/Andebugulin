@@ -1,65 +1,137 @@
-```
-$ pacman -Qi andebugulin
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+  <img alt="Andrei Gulin — Software Developer, Finland" src="header-dark.svg" width="800">
+</picture>
 
-```
-Name            : andebugulin
-Version         : 2026.03-1
-Description     : software developer, finland
-URL             : https://andebugulin.github.io
-Licenses        : MIT
-Provides        : mobile-apps  web-apps  open-source-tools
-Architecture    : arch-linux (hyprland)
-```
+<br>
 
----
+<a href="https://andebugulin.github.io"><img src="https://img.shields.io/badge/portfolio-000?style=flat-square&logoColor=fff" /></a>
+<a href="https://www.linkedin.com/in/andrei-gulin"><img src="https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=fff" /></a>
+<a href="mailto:andreigulin2005@gmail.com"><img src="https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=fff" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/2_apps_on_Google_Play-000?style=for-the-badge&logo=google-play&logoColor=fff" />
+<img src="https://img.shields.io/badge/150+_users-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/6+_shipped_projects-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/B.Eng_·_GPA_4.47/5.0-000?style=for-the-badge" />
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════ -->
+
+<h3>
+&nbsp;&nbsp;P U B L I S H E D &nbsp; A P P S
+</h3>
 
 <table>
-<tr><td>
+<tr>
+<td width="50%" valign="top">
 
-**[nfcGuard](https://andebugulin.github.io/nfcGuard/)** · [source](https://github.com/Andebugulin/nfcGuard)\
-Block distracting apps with physical NFC tags.\
-[![Google Play](https://img.shields.io/badge/Google_Play-000?style=flat-square&logo=google-play&logoColor=fff)](https://play.google.com/store/apps/details?id=com.andebugulin.nfcguard)
+<h4><a href="https://andebugulin.github.io/nfcGuard/">nfcGuard — NFC Focus Lock</a></h4>
 
-</td><td>
+Block distracting apps and unlock them only by tapping a physical NFC tag. Scheduled blocking modes, persistent service, emergency recovery.
 
-**[Awareen](https://andebugulin.github.io/Awareen/)** · [source](https://github.com/Andebugulin/awareen)\
-Persistent overlay showing your daily screen time.\
-[![Google Play](https://img.shields.io/badge/Google_Play-000?style=flat-square&logo=google-play&logoColor=fff)](https://play.google.com/store/apps/details?id=com.andebugulin.awareen2)
+`Kotlin` `Jetpack Compose` `NFC` `Foreground Services`
 
-</td></tr>
-<tr><td>
+<a href="https://play.google.com/store/apps/details?id=com.andebugulin.nfcguard"><img src="https://img.shields.io/badge/Google_Play-000?style=for-the-badge&logo=google-play&logoColor=fff" /></a>
+<a href="https://github.com/Andebugulin/nfcGuard"><img src="https://img.shields.io/badge/Source-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
 
-**[kn-owl-edge-tree](https://kn-owl-edge-tree.vercel.app)** · [source](https://github.com/Andebugulin/kn-owl-edge-tree)\
-Zettelkasten note graph. Next.js, tRPC, PostgreSQL.
+</td>
+<td width="50%" valign="top">
 
-</td><td>
+<h4><a href="https://andebugulin.github.io/Awareen/">Awareen — Screen Time Overlay</a></h4>
 
-**[Wordor](https://github.com/Andebugulin/wordor)**\
-Translator + spaced repetition. DeepL + Gemini. Flutter.
+Persistent on-screen timer showing daily screen time across all apps. Three-level color alerts, fully customizable. **50+ organic users.**
 
-</td></tr>
-<tr><td>
+`Kotlin` `Overlay Services` `Background Execution`
 
-**[Morner](https://t.me/morner_bot)** · [source](https://github.com/Andebugulin/morner)\
-Morning routine Telegram bot. 50+ daily users.
+<a href="https://play.google.com/store/apps/details?id=com.andebugulin.awareen2"><img src="https://img.shields.io/badge/Google_Play-000?style=for-the-badge&logo=google-play&logoColor=fff" /></a>
+<a href="https://github.com/Andebugulin/awareen"><img src="https://img.shields.io/badge/Source-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
 
-</td><td>
-
-**[GaleriYah](https://github.com/Andebugulin/galeriyah)**\
-Photography portfolio. Next.js, Supabase, Flickr pipeline.
-
-</td></tr>
+</td>
+</tr>
 </table>
+
+<!-- ═══════════════════════════════════════════ -->
+
+<h3>
+&nbsp;&nbsp;P R O J E C T S
+</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h4><a href="https://kn-owl-edge-tree.vercel.app">kn-owl-edge-tree</a></h4>
+
+Zettelkasten note graph with WebGL visualization.
+
+`Next.js` `tRPC` `PostgreSQL` `Sigma.js`
+
+<a href="https://github.com/Andebugulin/kn-owl-edge-tree"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+<h4><a href="https://github.com/Andebugulin/wordor">Wordor</a></h4>
+
+Translator with spaced repetition and AI-powered hints.
+
+`Flutter` `DeepL API` `Gemini API` `Drift`
+
+<a href="https://github.com/Andebugulin/wordor"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+<h4><a href="https://t.me/morner_bot">Morner</a></h4>
+
+Morning routine Telegram bot. **50+ daily users.**
+
+`Python` `aiogram` `Oracle Cloud`
+
+<a href="https://github.com/Andebugulin/morner"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h4><a href="https://github.com/Andebugulin/galeriyah">GaleriYah</a></h4>
+
+Photography portfolio with admin panel and Flickr pipeline.
+
+`Next.js` `Supabase` `Framer Motion`
+
+<a href="https://github.com/Andebugulin/galeriyah"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════ -->
+
+<h3>
+&nbsp;&nbsp;S T A C K
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,nextjs,react,ts,python,go,rust,docker,linux&theme=dark&perline=12" />
+</p>
+
+<!-- ═══════════════════════════════════════════ -->
+
+<h3>
+&nbsp;&nbsp;B A C K G R O U N D
+</h3>
+
+**B.Eng Information Technology** — XAMK, Finland (2025) · GPA **4.47**/5.0\
+**Thesis:** [JavaScript vs WebAssembly Performance Visualization](https://andebugulin.github.io/thesis/)\
+
+**Certifications:** AWS Cloud Foundations · DeepLearning.AI · Cisco Network Security
 
 ---
 
-```
-$ cat /etc/education
-```
-
-```
-B.Eng Information Technology — XAMK, Finland (2025)
-GPA 4.47/5.0
-Thesis: JavaScript vs WebAssembly Performance Visualization
-```
+<sub>All projects are open source · No ads · No tracking · Privacy first</sub>

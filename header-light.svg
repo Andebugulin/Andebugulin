@@ -1,0 +1,6 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" fill="transparent"/>
+  <text x="0" y="52" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="42" font-weight="700" fill="#000000" letter-spacing="-1">Andrei Gulin</text>
+  <text x="0" y="85" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="16" fill="#666666" letter-spacing="3">SOFTWARE DEVELOPER · FINLAND</text>
+  <line x1="0" y1="105" x2="800" y2="105" stroke="#d0d0d0" stroke-width="1"/>
+</svg>
