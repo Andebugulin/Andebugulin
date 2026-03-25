@@ -112,7 +112,6 @@ Photography portfolio with admin panel and Flickr pipeline.
 </td>
 </tr>
 </table>
-
 <!-- ═══════════════════════════════════════════ -->
 
 <h3>
@@ -131,20 +130,20 @@ Photography portfolio with admin panel and Flickr pipeline.
 
 <table width="100%">
 <tr>
-<td width="35%" align="left"><strong>B.Eng Information Technology</strong></td>
-<td width="65%" align="right">XAMK, Finland (2025) · GPA <strong>4.47</strong>/5.0</td>
+<td align="left"><strong>B.Eng Information Technology</strong></td>
+<td align="right">XAMK, Finland (2025) · GPA <strong>4.47</strong>/5.0</td>
 </tr>
 </table>
 <table width="100%">
 <tr>
-<td width="35%" align="left"><strong>Thesis</strong></td>
-<td width="65%" align="right"><a href="https://andebugulin.github.io/thesis/">JS vs WebAssembly Performance Visualization</a></td>
+<td align="left"><strong>Thesis:</strong></td>
+<td align="right"><a href="https://andebugulin.github.io/thesis/">JS vs WebAssembly Performance Visualization</a></td>
 </tr>
 </table>
 <table width="100%">
 <tr>
-<td width="35%" align="left"><strong>Certifications</strong></td>
-<td width="65%" align="right">AWS Cloud Foundations · DeepLearning.AI · Cisco Network Security</td>
+<td align="left"><strong>Certifications</strong></td>
+<td align="right">AWS Cloud Foundations · DeepLearning.AI · Cisco Network Security</td>
 </tr>
 </table>
 
