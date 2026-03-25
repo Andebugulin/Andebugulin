@@ -99,7 +99,7 @@ Morning routine Telegram bot. **50+ daily users.**
 <tr>
 <td width="33%" valign="top">
 
-<h4><a href="https://github.com/Andebugulin/galeriyah">GaleriYah</a></h4>
+<h4><a href="https://galeriyah.netlify.app/">GaleriYah</a></h4>
 
 Photography portfolio with admin panel and Flickr pipeline.
 
@@ -108,6 +108,8 @@ Photography portfolio with admin panel and Flickr pipeline.
 <a href="https://github.com/Andebugulin/galeriyah"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
 
 </td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -127,10 +129,20 @@ Photography portfolio with admin panel and Flickr pipeline.
 &nbsp;&nbsp;B A C K G R O U N D
 </h3>
 
-**B.Eng Information Technology** — XAMK, Finland (2025) · GPA **4.47**/5.0\
-**Thesis:** [JavaScript vs WebAssembly Performance Visualization](https://andebugulin.github.io/thesis/)\
-
-**Certifications:** AWS Cloud Foundations · DeepLearning.AI · Cisco Network Security
+<table width="100%">
+<tr>
+<td align="left"><strong>B.Eng Information Technology</strong></td>
+<td align="right">XAMK, Finland (2025) · GPA <strong>4.47</strong>/5.0</td>
+</tr>
+<tr>
+<td align="left"><strong>Thesis:</strong> <a href="https://andebugulin.github.io/thesis/">JS vs WebAssembly Performance Visualization</a></td>
+<td align="right">2025</td>
+</tr>
+<tr>
+<td align="left"><strong>Certifications</strong></td>
+<td align="right">AWS Cloud Foundations · DeepLearning.AI · Cisco Network Security</td>
+</tr>
+</table>
 
 ---
 
