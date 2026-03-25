@@ -135,8 +135,8 @@ Photography portfolio with admin panel and Flickr pipeline.
 <td align="right">XAMK, Finland (2025) · GPA <strong>4.47</strong>/5.0</td>
 </tr>
 <tr>
-<td align="left"><strong>Thesis:</strong> <a href="https://andebugulin.github.io/thesis/">JS vs WebAssembly Performance Visualization</a></td>
-<td align="right">2025</td>
+<td align="left"><strong>Thesis:</strong></td>
+<td align="right"><a href="https://andebugulin.github.io/thesis/">JS vs WebAssembly Performance Visualization</a> 2025</td>
 </tr>
 <tr>
 <td align="left"><strong>Certifications</strong></td>
