@@ -92,7 +92,7 @@ Morning routine Telegram bot. **50+ daily users.**
 
 `Python` `aiogram` `Oracle Cloud`
 
-<a href="https://github.com/Andebugulin/morner"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
+<a href="https://github.com/Andebugulin/telegram_bot"><img src="https://img.shields.io/badge/source-000?style=flat-square&logo=github&logoColor=fff" /></a>
 
 </td>
 </tr>
