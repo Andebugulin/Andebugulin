@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-  <img alt="Andrei Gulin — Software Developer, Finland" src="header-dark.svg" width="800">
+  <img alt="Andrei Gulin, Software Developer, Finland" src="header-dark.svg" width="800">
 </picture>
 
 <br>
@@ -13,7 +13,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/2_apps_on_Google_Play-000?style=for-the-badge&logo=google-play&logoColor=fff" />
-<img src="https://img.shields.io/badge/150+_users-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/1500+_users-000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/6+_shipped_projects-000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/B.Eng_·_GPA_4.47/5.0-000?style=for-the-badge" />
 
@@ -29,9 +29,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://andebugulin.github.io/nfcGuard/">nfcGuard — NFC Focus Lock</a></h4>
+<h4><a href="https://andebugulin.github.io/nfcGuard/">nfcGuard: NFC Focus Lock</a></h4>
 
-Block distracting apps and unlock them only by tapping a physical NFC tag. Scheduled blocking modes, persistent service, emergency recovery.
+Block distracting apps and unlock them only by tapping a physical NFC tag. Scheduled blocking modes, persistent service, emergency recovery. **1150+ users.**
 
 `Kotlin` `Jetpack Compose` `NFC` `Foreground Services`
 
@@ -41,9 +41,9 @@ Block distracting apps and unlock them only by tapping a physical NFC tag. Sched
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://andebugulin.github.io/Awareen/">Awareen — Screen Time Overlay</a></h4>
+<h4><a href="https://andebugulin.github.io/Awareen/">Awareen: Screen Time Overlay</a></h4>
 
-Persistent on-screen timer showing daily screen time across all apps. Three-level color alerts, fully customizable. **50+ organic users.**
+Persistent on-screen timer showing daily screen time across all apps. Three-level color alerts, fully customizable. **350+ users on Google Play.**
 
 `Kotlin` `Overlay Services` `Background Execution`
 
